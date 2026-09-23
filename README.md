@@ -1,4 +1,4 @@
-# proof-of-concepts for [dungeon-crawlers](https://www.dungeoncrawlers.org/definition/)
+# proof-of-concepts for [dungeon crawlers](https://www.dungeoncrawlers.org/definition/)
 
 * [/01-pico-8-poc-ui](/01-pico-8-poc-ui) : UI for a dungeon crawler for PICO-8
 * [/02-pico-8-maze-lines](/02-pico-8-maze-lines) : dungeon crawler drawn with lines for PICO-8
